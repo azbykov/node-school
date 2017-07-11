@@ -1,1 +1,1 @@
-# node-school-streams
+# node-school
